@@ -6,7 +6,6 @@ Repo này cũng là kết quả của bài viết [Xác thực API sử dụng L
 
 # Cài đặt
 Clone repo
-
 `
 git clone https://github.com/phambinh217/laravel-api-authentication.git
 `
