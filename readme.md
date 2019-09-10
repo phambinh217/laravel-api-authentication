@@ -1,7 +1,7 @@
 # Giới thiệu
 Là dự án laravel kết hợp với laravel passport để xây dựng các api cơ bản liên quan tới việc xác thực tài khoản như đăng ký, đăng nhập, đăng xuất, lấy thông tin của user đang đăng nhập.
 
-Repo này cũng là kết quả của bài viết [Xác thực API sử dụng Laravel passport](https://phambinh.net/bai-viet/xac-thực-api-sử-dụng-laravel-passport/‎)
+Repo này cũng là kết quả của bài viết [Xác thực API sử dụng Laravel passport](https://phambinh.net/bai-viet/xac-thuc-api-su-dung-laravel-passport)
  trên phambinh.net.
 
 # Cài đặt
