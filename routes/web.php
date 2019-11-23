@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('test', 'ImageController@resize');
+
+Route::get('resizes/{size}/{imagePath}', 'ImageController@flyResize')->where('imagePath', '(.*)');
